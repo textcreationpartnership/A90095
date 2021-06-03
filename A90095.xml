@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old anabaptists grand plot discovered: with their covenant, league, and articles: and the manner how they had conspired together, to seize upon divers cities, and burn stately towns, in several countries. As also, to have shaken off all higher powers, to have pulled down magistrates and churches, to pay no more tythes, nor taxes, but to have seized on all ministers estates, church-lands, and livings.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90095</idno><idno type="EEBO-CITATION">99866995</idno>
+  <idno type="VID">168990</idno>
+  <idno type="EEBO-PROQUEST">2248513506</idno>
+  
+            <idno type="STC">Wing O1197</idno>
+            <idno type="STC">Thomason E153_12</idno>
+            <idno type="STC">ESTC R207985</idno>
+            <idno type="PROQUEST">99866995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866995e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1053[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old anabaptists grand plot discovered: with their covenant, league, and articles: and the manner how they had conspired together, to seize upon divers cities, and burn stately towns, in several countries. As also, to have shaken off all higher powers, to have pulled down magistrates and churches, to pay no more tythes, nor taxes, but to have seized on all ministers estates, church-lands, and livings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton for the peoples information,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168990:1"/>
+            <p> THE Old Anabaptists GRAND PLOT Discovered: WITH Their <hi>Covenant, League,</hi> and <hi>Articles:</hi> And the manner how they had conspired together, to seize upon divers Cities, and burn stately Towns, in several Countries.</p>
+            <p>
+               <hi>As also,</hi> To have shaken off all Higher Powers, to have pulled down Magistrates and Churches, to pay no more Tythes, nor Taxes, but to have seized on all Ministers Estates, Church-Lands, and Livings.</p>
+            <p>London, <hi>Printed for</hi> George Horton <hi>for the Peoples Information.</hi>
+            </p>
+            <pb facs="tcp:168990:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168990:2"/>
+            <head>The old Anabaptists grand Plot Discovered.</head>
+            <p>THe Tragical disorders committed of late years by the Anabaptists, cannot be taken notice of without de<g ref="char:EOLhyphen"/>testation and amazement: And if we rightly consi<g ref="char:EOLhyphen"/>der at home the sad story from abroap, acted in the Theatre of <hi>Germany,</hi> we shall find them to be a Generation most pest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ferous, in their Doctrine, and dangerous in their Se<g ref="char:EOLhyphen"/>duction, and so ought of all men to be avoided: For of late years, under the Sun-shine of too general a toleration, there hath sprung up a sort of people in England, puft up with Adul<g ref="char:EOLhyphen"/>terous and Blasphemous Tenets and Heretical opinions, which none but the Divine hand of Providence (by a miraculous Re<g ref="char:EOLhyphen"/>stauration of Our Gracious Soveraign King <hi>Charles)</hi> could have stilled; for they were grown so exceeding high and da<g ref="char:EOLhyphen"/>ring, that none but a Royal hand of power could have restrai<g ref="char:EOLhyphen"/>ned them: Nay, of late years, sad experience tolls us, how insolently they endeavoured to diffuse their poyson through<g ref="char:EOLhyphen"/>out his Majesties Realms and Dominions: Therefore, that all Loyal Subjects being forewarned of them, may be forewarned against them, a brief and true account I shall here represent of the wicked practises of the old Anabaptists in the Netherlands, and else where, which so much infested those States. And first, we shall begin with the Peasants about Bruxels, who in the year 1503. arose to so great a height of Sedition. that they were sworn to these Articles, <hi>viz.</hi> To shake off all higher powers <hi>(a thing attempted, and</hi> tantum non <hi>effected in England</hi>
+               <pb n="2" facs="tcp:168990:3"/>
+               <hi>in</hi> 1659.) and get liberty by force of Armes, like the Swit<g ref="char:EOLhyphen"/>zers: To pull down all Magistrates, and kill all that should stand against them: To seize on the City of Bruxels, and in<g ref="char:EOLhyphen"/>vade the Magistrate of Baden; To seize on all the Revenues of Churches, and Clergy-men <hi>(as some world have done the Tythes of England)</hi> To stay no where above 24 hours, but go forward still, till they had brought many Countries to their society: to pay no more Tythes nor Tributes: Whosoever was recei<g ref="char:EOLhyphen"/>ved into that League, was to say five times a day on his knees <hi>(whose Singer here)</hi> a <hi>Pater</hi> and an <hi>Ave,</hi> for the good success of their enterprize, and their word of Cognisance was the <hi>Virgin Martyr,</hi> and St. <hi>John</hi> the Evangelist. But that league went but a little way, being timely stopt, and the Authors put to death by <hi>Maximillian</hi> their Prince, and a sudden destruction befell the rest: For divers were cut off by the Sword of Ju<g ref="char:EOLhyphen"/>stice at the Hague, Harlem, and other places; nothing but Fire and Sword could repress the seditious fury of that Pha<g ref="char:EOLhyphen"/>natick Sect: yet were these but preludes to a greater mischief, wrought cheifly by that pernicious instrument <hi>James</hi> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emp, who lay hid in Amsterdam six moneths, appearing onely in the night to keep Convincticles seducing the people: Herein he was strongly seconded by <hi>John Geles,</hi> sent by <hi>John</hi> of Leyden to be a leader of the wandring brethren to Munster.</p>
+            <p>But <hi>John Geles</hi> being come to Frize and Holland, found no wandring Israel in the desare, as it was reported in Munster, whereof he went to the Cities, where he made a great party, and caused several insurrections, and yet was not seen in any for a long time.</p>
+            <p>The frequent seditions in all parts of Holland were hardly represt with frequent Executions; for <hi>John Geles</hi> was raising Se<g ref="char:EOLhyphen"/>dition from City to City, to raise a party for his King. A cunning plotting projector he was, and by his leading the Mo<g ref="char:EOLhyphen"/>nastery of Bolswerd, was taken: His intent was to go with his Troop to Munster, and gather more strength as he went. But being defeated by <hi>George Shenk,</hi> he fled to Amsterdam, changed his name, and went for a Merchaut: For by the several confes<g ref="char:EOLhyphen"/>sions of many that were executed for Sedition, the name of <hi>Geles</hi> was known to be the chief Author.</p>
+            <pb n="3" facs="tcp:168990:3"/>
+            <p> And because <hi>Geles</hi> was in great fear to be known by his right name, (for the onely changing of his name by the Laws of the Country was punishable by death) he was perswaded by his friends to go to the Court of Brabant, and there confess his fault and buy his pardon, which he might well, for he had brought a great sum of money out of Munster, and then return and converse freely and openly with his own name, and have more liberty and opportunity to bring his designes to action.</p>
+            <p>He went then to the Court, where Queen <hi>Mary</hi> of Portugal, Sister to CHARLES the fifth, was Governess of the seven<g ref="char:EOLhyphen"/>teen Provinces, and sped so well, that not onely he obtained his pardon, but got a great trust in the Court, promising to de<g ref="char:EOLhyphen"/>liver the City of Munster to the Emperor: To that effect he got a Commission under the Great Seal, with a good sum of money to levie Souldiers for that purpose.</p>
+            <p>Having thus cozened the Court, he returned to Amsterdam to cozen the Magistrates, who seeing his Commission and the greatness of the design, would emulate the Trust reposed upon him by their Superiours, and shewed him much favour: He took his Lodging in the Spanish Ordinary, consorted with men of that Nation and Religion, gave fair words to all, which made the Magistrates secure, and himself unsufferable.</p>
+            <p>He made such use of that liberty, that in short time he had contrived a most politick enterprize to make himself Master of the City.</p>
+            <p>In a night meeting he anounced to his Brotherhood the O<g ref="char:EOLhyphen"/>racle of <hi>Henry Hilversum,</hi> that God had given to the King of Sion, Amsterdam, Wesel, and Daventer, for the first fruits of his Raign over the World, perswading them that to invade Amsterdam was an easie matter, having but to do with a few idle Bellies, and that they had a fair opportunity at hand to kill them altogether in the Town-house the twelfth of that in<g ref="char:EOLhyphen"/>stant May, a day kept Festival by ancient custome, by the so<g ref="char:EOLhyphen"/>ciety of the Cross, who used to make a great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>east at night in the Town-house, and invite all the Magistrates and men of means in the City, and there to spend most part of the night in drinking, and looking upon fire-works.</p>
+            <pb n="4" facs="tcp:168990:4"/>
+            <p> That day then was designed for the enterprize, and their e<g ref="char:EOLhyphen"/>nemies noted and designed for the slaughter, and the ricuest houses already shared amongst them: They appointed for the signal of their Rising, the ringing of the Bell in the Town<g ref="char:EOLhyphen"/>house. Before they parted <hi>John Geles</hi> gave to every one a D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cat for a bond of socitey and secrecy. He and <hi>Henry Goethelit</hi> were to be the Leaders.</p>
+            <p>The appointed night being come, some Anabaptists were up before the signal, which the rest looking for, stayed so long, that the enterprize was disappointed; for the same day the Bell-rope was taken out of the way by a Drunken follow, yet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y an admirable providence of God, watching for the safety of the City, and so there was no ringing, and no great meeting. The Magistrates and the society of the Cross, nearing that the Anabaptists were up in Armes, left their sport and went home: Yet the Magistrates were so long cousulting, that they were almost surprized by their enemies, who rashed with Colours flying, and Drums beating into the Town-house, and killed some of the Serjeants and Waiters, and made the Masters that went before to go out of their Aldermans pace to save their lives. Then coming to the great place where the Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sires were burning, they overthrew them, that they might give more terrour, and shoot undiscerned amongst the multitude: They killed many in the dark with Bullets, which they had poysoned for fear of failing; and the Burgmaster <hi>Peter Colin</hi> being come to encounter them with a Troop of Citizens, was by them slain, and his men put to flight: Then one <hi>Gaswin,</hi> a man of great Authority in the City, and one that had valour and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kil in War, commanded that the streets should be stopt with great sacks of Hops heaped up to be instead of Gabions a<g ref="char:EOLhyphen"/>gainst the shot of the Anabaptists.</p>
+            <p>And because he trusted nor in the fearful and unexperien<g ref="char:EOLhyphen"/>ced Citizens, he called Volunteers, to whom he promised a moneths pay for that dayes service; by which means he got many that had seen and known War before, and made a gal<g ref="char:EOLhyphen"/>laut company.</p>
+            <p>The night being dark, he could attempt nothing till day, onely he took an order that all the wayes to the Market pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,
+<pb n="5" facs="tcp:168990:4"/> (where the <hi>Anabaptists</hi> stood in arms) should be stopt, and that the rest of the people should keep at home without noise: this order frighted the <hi>Anabaptists,</hi> seeing no hope to be assisted by their brethren, who for want of the signal of the Bell were not come and now it was too late for them to come, the waies be<g ref="char:EOLhyphen"/>ing stopt, and having lost the first opportunity of the fright of the people, who now were come to themselves, and stood up<g ref="char:EOLhyphen"/>on their defence. Then <hi>Goethelit</hi> said to <hi>Geles,</hi> this was my fear, that begining this enterprize with so few, we should come short of it (for they were not above forty) now all that we have to do is to dye <hi>like men.</hi> Nay, said <hi>Geles,</hi> if you will be<g ref="char:EOLhyphen"/>lieve a Prophet, we shall be Masters of the City before to mor<g ref="char:EOLhyphen"/>row ten of the clock: Then they sung Psalmes all night, and at the break of day, the people perceiving them began to shoot at them, which made them retire into the Town house, and there keep strong: The people brought Ordinance before it, and were ready to have battered it down, but <hi>Goswin</hi> would try first to assault the door, which was done with effect, al<g ref="char:EOLhyphen"/>though the Anabaptists fought it out stoutly, and but twelve of them were taken, the rest were killed, and <hi>Goethelit</hi> one of them.</p>
+            <p>
+               <hi>John Geles</hi> that would by any means cozen the Hangman of his Fees, got upon a little Steeple where the Town Bell hung, and gave a fair mark to the Souldiers below, who shot him thorow, whereof he fell down dead into the place. The pri<g ref="char:EOLhyphen"/>soners were executed, and some more of the Town, and some living without the Gates, who hearing shooting of Guns were come to pillage the City supposing that it was taken. Two Wo<g ref="char:EOLhyphen"/>men were hanged, and two were drowned for poysoning the Bullets; many more since were executed, and amongst others some of those that danced that Antick Mask of naked Men and Women, and a Woman and her Son for receiving <hi>James</hi> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emp, contrary to the order of the Magistrate: For it had been proclaimed in the Town, That whosoever should harbor him, and not discover him before night, should be hanged at his door; but he that did discover him, should have a great re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>He was sound hid in a heap of Turves, and executed with
+<pb n="6" facs="tcp:168990:5"/> ignominy, having a two horned Miter on his head, bcause he plaid the Bishop: His tongue was cut off, wherewith he prea<g ref="char:EOLhyphen"/>ched sedition, and his hand, wherewith he baptized without authority.</p>
+            <p>And now the heart of that faction was broken in all the Low Countries, for they left not searching and executing in every City, till all that Generation was extinct and brought so low, that they left plotting. Ten years after some relicks of that offered to stir at Leyden, the authors being taken and exami<g ref="char:EOLhyphen"/>ned, confest that the Anabaptists had chosen a King, but was not crowned yet, and was to succeed <hi>John</hi> of Leyden, and ano<g ref="char:EOLhyphen"/>ther to be his high Treasurer, and that they both were at Ut<g ref="char:EOLhyphen"/>recht. Both were apprehended and kept some moneths in pri<g ref="char:EOLhyphen"/>son: Amongst other exploits of that elected King, he had got his Wife into a Wood, and there killed her, that without in<g ref="char:EOLhyphen"/>terruption he might lie with his Daughter, and cut a young Wenches Throat least she should detect him. Good store of Plate was found in his house, most of it Church plate: It seems that party began to make a stock for a new Kingdom: The King and his Treasurer were burnt; that was the last spark of that faction till our times.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
